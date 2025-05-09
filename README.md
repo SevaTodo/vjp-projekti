@@ -1,12 +1,19 @@
-# React + Vite
+# VJP Projekti
+Projektin ideana siis tosiaan Human Benchmark tyylinen sivusto muutamilla eri minipeleillä. Ideana oli tehdä 3 eri peliä, mutta vaan yhden pelin tekemisessä oli tarpeeksi vaivaa, joten sivussa on vain yksi toimiva peli.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Pelit
+## Aim Challenge
+Tähän peliin olen ottanut paljon inspiraatiota Human Benchmarkin Aim Traineristä, sekä "Aim Lab" ja "osu!" nimisistä peleistä. Suurin ero minun ja Human Benchmarkin pelin välissä on se, että minun pelissä näkyy kaksi targettia samalla, eli fokus on vähemmän siihen kuinka nopeasti reagoit ja enemmän siihen kuinka nopea olet. Lisäksi pisteytys on täysin erilainen.
+Tämä on ainoa toimiva peli sivulla. Muut pelit eivät ole implementoitu edellämainitusta syystä
 
-Currently, two official plugins are available:
+## Spam Challenge
+Tämän pelin konseptina olisi sellainen, että pelaajan pitää spämmää hiirtä (tai kosketusnäyttöä) nopeasti ja tasaisesti. Näytöllä olisi hahmo, joka lentää ylös tasaisella nopeudella kun nappi on pohjassa, ja alas samalla nopeudella kun nappi ei ole pohjassa. Häviät pelin, jos hahmo törmää näytön ylä- tai alareunaan. Nopeus kasvaisi ajan myötä, eli mitä kauemman selviydyt, niin sitä nopeampi pitäisi klikata
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Rhythm Challenge
+Tässä pelissä pelaajan pitää klikata näyttöä esim. metronomin myötä, ja mitä lähempi metronomia painallukset ovat (eli mitä parempi olet rytmissä metronomin kanssa) sitä enemmän saat pisteitä. Tässä pelissä on myös otettu osu! inspiraatioksi, mutta tässä pelissä ei ole mitään visuaalista merkkiä, vaan pitää kuunnella milloin painaa
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Ryhmäjäsenet
+## Vsevolod Todoshchenko
+101776152
+Työtehtävät: Kaikki
+Tunnit: ~50h
