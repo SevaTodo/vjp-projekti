@@ -4,6 +4,7 @@ Projektin ideana siis tosiaan Human Benchmark tyylinen sivusto muutamilla eri mi
 # Pelit
 ## Aim Challenge
 Tähän peliin olen ottanut paljon inspiraatiota Human Benchmarkin Aim Traineristä, sekä "Aim Lab" ja "osu!" nimisistä peleistä. Suurin ero minun ja Human Benchmarkin pelin välissä on se, että minun pelissä näkyy kaksi targettia samalla, eli fokus on vähemmän siihen kuinka nopeasti reagoit ja enemmän siihen kuinka nopea olet. Lisäksi pisteytys on täysin erilainen.
+
 Tämä on ainoa toimiva peli sivulla. Muut pelit eivät ole implementoitu edellämainitusta syystä
 
 ## Spam Challenge
@@ -15,5 +16,7 @@ Tässä pelissä pelaajan pitää klikata näyttöä esim. metronomin myötä, j
 # Ryhmäjäsenet
 ## Vsevolod Todoshchenko
 101776152
+
 Työtehtävät: Kaikki
+
 Tunnit: ~50h
