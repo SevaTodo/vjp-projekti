@@ -1,5 +1,9 @@
 # VJP Projekti
+https://vjp-projekti-gamma.vercel.app/
+
 Projektin ideana siis tosiaan Human Benchmark tyylinen sivusto muutamilla eri minipeleillä. Ideana oli tehdä 3 eri peliä, mutta vaan yhden pelin tekemisessä oli tarpeeksi vaivaa, joten sivussa on vain yksi toimiva peli.
+
+Peleissä on leaderboardit, ja ajat ovat säilytettynä lokaalisesti localstoragessa.
 
 # Pelit
 ## Aim Challenge
